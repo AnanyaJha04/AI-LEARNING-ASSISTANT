@@ -22,7 +22,7 @@ Authorization is the process of granting a person or entity permission to access
 Allow users to set up a username, password, designation, and a random security question. Once set, they would be asked to log in in 2 steps. In the first step, they would be asked to enter their username, password, and designation. If the credentials get verified, they are redirected to the second step, where they answer the security question; if verified, they will be granted access.
 
 ## Features-
-1. 2-Factor Authentication
+1. 2-Way Authentication
 2. Password Verification
 3. Security Question is easy to remember, yet hard to guess
 
@@ -30,3 +30,4 @@ Allow users to set up a username, password, designation, and a random security q
 1. Password checker- Embed a code for a password checker to ensure the entered password is strong.
 2. Improvised question- Make the security question harder to guess.
 3. OTP- We can make a model to generate OTPs for more secure access.
+4. Multi Factor authentication
